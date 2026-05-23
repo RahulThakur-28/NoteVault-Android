@@ -29,22 +29,14 @@ It allows users to create, manage, and organize notes efficiently with a clean a
 ---
 
 ## 📱 Screenshots
+<h2>📸 Screenshots</h2>
 
-### 🚀 Splash Screen
-
-![Splash](screenshots/splash.png)
-
-### 🔐 Login Screen
-
-![Login](screenshots/login.png)
-
-### 🏠 Home Screen
-
-![Home](screenshots/home.png)
-
-### ✏️ Add Note Screen
-
-![Add Note](screenshots/add_note.png)
+<p align="center">
+  <img src="./screenshots/splash.png" width="180"/>
+  <img src="./screenshots/login.png" width="180"/>
+  <img src="./screenshots/home.png" width="180"/>
+  <img src="./screenshots/add_note.png" width="180"/>
+</p>
 
 ---
 
