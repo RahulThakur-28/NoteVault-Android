@@ -30,8 +30,6 @@ It allows users to create, manage, and organize notes efficiently with a clean a
 
 ## 📱 Screenshots
 
-## 📱 Screenshots
-
 ### 🚀 Splash Screen
 
 ![Splash](screenshots/splash.png)
