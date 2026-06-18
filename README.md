@@ -54,24 +54,24 @@ NoteVault is a modern Android Notes Application that allows users to create, edi
 <table>
 <tr>
 <td align="center">
-<img src="Screenshots/splash.png" width="250"><br>
+<img src="screenshots/splash.png" width="250"><br>
 <b>Splash Screen</b>
 </td>
 
 <td align="center">
-<img src="Screenshots/login.png" width="250"><br>
+<img src="screenshots/login.png" width="250"><br>
 <b>Login Screen</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="Screenshots/home.png" width="250"><br>
+<img src="screenshots/home.png" width="250"><br>
 <b>Home Screen</b>
 </td>
 
 <td align="center">
-<img src="Screenshots/add_note.png" width="250"><br>
+<img src="screenshots/add_note.png" width="250"><br>
 <b>Add Note Screen</b>
 </td>
 </tr>
