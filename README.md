@@ -1,89 +1,159 @@
-# 📦 NoteVault (Android)
+# 📦 NoteVault - Android Notes Application
 
-NoteVault is a modern and secure Notes App built using **Kotlin, XML, MVVM architecture, and Room Database**.
-It allows users to create, manage, and organize notes efficiently with a clean and intuitive UI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-Android-blue?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/MVVM-Architecture-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Room-Database-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-Android-brightgreen?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <h3 align="center">📝 NoteVault</h3>
+  <p align="center">
+    A modern Notes Application built using Kotlin, XML, MVVM Architecture, and Room Database.
+  </p>
+</p>
+
+---
+
+## ✨ Overview
+
+NoteVault is a modern Android Notes Application that allows users to create, edit, delete, and organize notes efficiently. The app follows the MVVM architecture and uses Room Database for secure offline storage, providing a smooth and responsive user experience.
 
 ---
 
 ## 🚀 Features
 
-* 🔐 Login & Signup (Local Storage)
-* 📝 Create, Edit, Delete Notes
-* 🎨 Colorful Notes UI
-* 🔍 Search Notes
+* 🔐 User Authentication (Login & Signup)
+* 📝 Create Notes
+* ✏️ Edit Existing Notes
+* 🗑️ Delete Notes
+* 🔍 Search Notes Instantly
 * 💾 Offline Storage using Room Database
-* ✨ Smooth UI with animations
-* 🚀 Splash Screen with branding
+* 🎨 Material Design UI
+* ⚡ Fast & Responsive Experience
+* 🚀 Splash Screen
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-* **Language:** Kotlin
-* **UI:** XML (Material Design)
-* **Architecture:** MVVM
-* **Database:** Room Database
-* **Async:** Coroutines
-* **Tools:** Android Studio
+| Technology     | Description             |
+| -------------- | ----------------------- |
+| Kotlin         | Programming Language    |
+| XML            | User Interface Design   |
+| MVVM           | Architecture Pattern    |
+| Room Database  | Local Data Storage      |
+| Coroutines     | Asynchronous Operations |
+| Android Studio | Development Environment |
 
 ---
 
-## 📱 Screenshots
-<h2>📸 Screenshots</h2>
+## 📸 Application Screenshots
 
+<table>
+<tr>
+<td align="center">
+<img src="Screenshots/splash.png" width="250"><br>
+<b>Splash Screen</b>
+</td>
+
+<td align="center">
+<img src="Screenshots/login.png" width="250"><br>
+<b>Login Screen</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Screenshots/home.png" width="250"><br>
+<b>Home Screen</b>
+</td>
+
+<td align="center">
+<img src="Screenshots/add_note.png" width="250"><br>
+<b>Add Note Screen</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📂 Project Structure
 
-```
-com.example.rahul.thenotesapp
+```text
+NoteVault-Android
 │
-├── data
-│   ├── local (Room DB)
+├── app
+│   ├── src
+│   │   ├── main
+│   │   │   ├── java
+│   │   │   │   ├── data
+│   │   │   │   ├── repository
+│   │   │   │   ├── viewmodel
+│   │   │   │   ├── ui
+│   │   │   │   │   ├── auth
+│   │   │   │   │   ├── notes
+│   │   │   │   │   └── splash
+│   │   │   │   └── utils
+│   │   │   └── res
+│   │   └── AndroidManifest.xml
 │
-├── ui
-│   ├── auth (Login / Signup)
-│   ├── notes (Main + Add/Edit)
-│   ├── splash
+├── Screenshots
+│   ├── splash.png
+│   ├── login.png
+│   ├── home.png
+│   └── add_note.png
 │
-├── viewmodel
-├── repository
-└── utils
+└── README.md
 ```
 
 ---
 
 ## ⚙️ Installation
 
-1. Clone the repository:
+### Clone the Repository
 
+```bash
+git clone https://github.com/RahulThakur-28/NoteVault-Android.git
 ```
-git clone https://github.com/YOUR_USERNAME/NoteVault-Android.git
+
+### Open in Android Studio
+
+```text
+1. Open Android Studio
+2. Clone/Open the project
+3. Sync Gradle
+4. Run the application
 ```
-
-2. Open in Android Studio
-
-3. Build & Run 🚀
 
 ---
 
-## 🎯 Future Improvements
+## 🎯 Future Enhancements
 
-* ☁️ Firebase Cloud Sync
+* ☁️ Firebase Authentication
+* ☁️ Cloud Sync & Backup
 * 🔔 Reminder Notifications
-* 🌙 Dark Mode
-* 🤖 AI-based note summary
+* 🌙 Dark Mode Support
+* 📌 Pin Important Notes
+* 🤖 AI-Based Note Summarization
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Rahul Thakur**
- Android Developer 
+
+* Android Developer
+* Kotlin Enthusiast
+* DSA & Problem Solving
+
+GitHub: https://github.com/RahulThakur-28
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Give it a ⭐ on GitHub and support the work!
+If you found this project useful, please give it a ⭐ on GitHub.
+
+Your support motivates future development and improvements.
