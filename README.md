@@ -1,4 +1,4 @@
-# 📦 NoteVault - Android Notes Application
+# 📦 NoteVault - Android Notes Applicatio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-Android-blue?style=for-the-badge&logo=kotlin"/>
@@ -18,7 +18,7 @@
 
 ## ✨ Overview
 
-NoteVault is a modern Android Notes Application that allows users to create, edit, delete, and organize notes efficiently. The app follows the MVVM architecture and uses Room Database for secure offline storage, providing a smooth and responsive user experience.
+NoteVault is a modern Android Note Application that allows users to create, edit, delete, and organize notes efficiently. The app follows the MVVM architecture and uses Room Database for secure offline storage, providing a smooth and responsive user experience.
 
 ---
 
