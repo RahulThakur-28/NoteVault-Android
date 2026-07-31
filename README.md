@@ -22,6 +22,7 @@ NoteVault is a modern Android Note Application that allows users to create, edit
 
 ---
 
+
 ## 🚀 Features
 
 * 🔐 User Authentication (Login & Signup)
